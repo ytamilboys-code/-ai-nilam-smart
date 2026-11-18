@@ -42,4 +42,3 @@ jobs:
         with:
           name: AI-Nilam-Smart-AAB
           path: build/app/outputs/bundle/release/app-release.aab
-concurrency: 
